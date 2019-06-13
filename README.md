@@ -1,1 +1,1 @@
-# Adam and Thompson Linkd list
+# Adam and Thompson Linked list
